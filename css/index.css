@@ -303,6 +303,8 @@ nav > a {
   padding-top: 25px;
   margin-top: 25px;
   flex-wrap: wrap;
+
+  justify-content: space-evenly;
 }
 
 .skyline-img {
@@ -314,7 +316,7 @@ nav > a {
 }
 
 .about-boxes {
-  max-width: 48%;
+  max-width: 46%;
   max-height: 100%;
   justify-content: space-between;
   margin: 10px 0 0 15px;
