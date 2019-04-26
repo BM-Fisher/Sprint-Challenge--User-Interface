@@ -233,7 +233,7 @@ footer nav a {
 
 header {
   display: flex;
-  margin: 30px auto;
+  margin: 10px auto;
 }
 nav {
   display: flex;
@@ -302,4 +302,12 @@ nav > a {
   border-top: 1px dashed black;
   padding-top: 25px;
   margin-top: 25px;
+}
+
+.skyline-img {
+  margin-bottom: 20px;
+}
+
+.about-intro {
+  margin-left: 20px;
 }
