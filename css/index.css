@@ -237,6 +237,7 @@ header {
 }
 nav {
   display: flex;
+  align-items: center;
 }
 nav > a {
   padding: 0 20px;
@@ -244,6 +245,10 @@ nav > a {
   color: black;
   font-size: 14px;
   margin: 0 25px;
+}
+
+.logo-black {
+  margin-bottom: 20px;
 }
 
 .boxes > .box:nth-child(1) {
@@ -288,4 +293,13 @@ nav > a {
 
 .speed-image-spread {
   margin-bottom: 30px;
+}
+
+/* ------------------------------------ About Page Syling Begins -------------------------------------------- */
+
+.about-main-content {
+  display: flex;
+  border-top: 1px dashed black;
+  padding-top: 25px;
+  margin-top: 25px;
 }
